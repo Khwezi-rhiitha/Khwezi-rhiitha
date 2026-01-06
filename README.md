@@ -15,6 +15,6 @@ ________________________________________________________________________________
 
 ## CONNECT WITH ME
 - LinkedIn: https://www.linkedin.com/in/nomakhwezi-malusi-3274a6225
-- Instagram: 
+- Instagram: https://www.instagram.com/khwets?igsh=dHA3b3lud29tNGk1
 ___________________________________________________________________________________________________________________________________________
 
