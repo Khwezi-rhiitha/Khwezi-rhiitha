@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there :). My name is Nomakhwezi Malusi.
+- IT Graduate 
+- South Africa❗
+___________________________________________________________________________________________________________________________________________
+## ABOUT ME
+I am an IT graduate specializing in Computer Science and Business Management, with hands-on experience in data analysis, software development, and application development. I am passionate about using technology to solve real-world problems, and I am eager to contribute and make meaningful results.
+___________________________________________________________________________________________________________________________________________
 
-<!--
-**Khwezi-rhiitha/Khwezi-rhiitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Tools
+- **Languages:** C#, Java, SQL, JavaScript, HTML, CSS  
+- **Frameworks:** ASP.NET MVC  
+- **Tools:** Visual Studio, VS Code, GitHub, R Studio  
+- **Databases:** SQL Server
+___________________________________________________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+## CONNECT WITH ME
+- LinkedIn: https://www.linkedin.com/in/nomakhwezi-malusi-3274a6225
+- Instagram: 
+___________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
